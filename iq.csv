@@ -1,13 +1,13 @@
 country,iq,education_expenditure_per_inhabitant,daily_max_temp
 Singapore,108,908,31.5
 Hong Kong,108,915,26.2
-Taiwan,106,,26.9
+Taiwan,106,26.9
 South Korea,106,537,18.2
 Japan,105,"1,258",19.2
 China,104,27,19.0
 Switzerland,102,"2,539",15.1
 Netherlands,102,"1,701",14.4
-North Korea,102,,15.2
+North Korea,102,15.2
 Macao,101,628,26.0
 Iceland,101,"2,443",8.1
 Finland,101,"1,990",8.2
@@ -59,12 +59,12 @@ Mauritius,87,167,26.8
 Costa Rica,86,216,28.7
 Philippines,86,38,31.9
 Mexico,86,279,29.8
-Iraq,86,,32.3
+Iraq,86,32.3
 Venezuela,85,241,32.1
 Bolivia,85,67,27.0
 Kuwait,85,"1,630",34.2
 Iran,84,120,26.5
-Montenegro,84,,21.0
+Montenegro,84,21.0
 Albania,84,55,21.2
 Indonesia,84,29,31.6
 Egypt,83,58,30.0
@@ -92,7 +92,7 @@ Kenya,71,33,27.4
 Ivory Coast,71,53,32.2
 South Africa,70,247,24.7
 Sudan,70,15,36.5
-Nigeria,70,,33.7
+Nigeria,70,33.7
 Ghana,69,34,32.1
 Chad,65,10,35.4
 Cameroon,65,29,31.0
